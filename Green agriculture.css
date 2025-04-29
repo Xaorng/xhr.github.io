@@ -33,7 +33,7 @@ header {
 }
 
 .green-header {
-    background-image: url("../images/logo.png");
+    background-image: url("images/logo.png");
     background-repeat: no-repeat;
     background-position: left center;
     padding-left: 150px;
